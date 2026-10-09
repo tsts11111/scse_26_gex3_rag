@@ -1,0 +1,9 @@
+# Runtime-generated artifacts (rebuilt automatically on first run)
+chroma_db/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/

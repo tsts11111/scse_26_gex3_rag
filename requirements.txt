@@ -1,0 +1,9 @@
+torch
+transformers
+modelscope
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
